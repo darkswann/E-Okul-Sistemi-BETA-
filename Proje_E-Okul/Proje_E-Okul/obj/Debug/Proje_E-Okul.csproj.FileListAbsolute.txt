@@ -1,0 +1,17 @@
+E:\Visual Studio Programları\Proje_E-Okul\Proje_E-Okul\bin\Debug\Proje_E-Okul.exe.config
+E:\Visual Studio Programları\Proje_E-Okul\Proje_E-Okul\bin\Debug\Proje_E-Okul.exe
+E:\Visual Studio Programları\Proje_E-Okul\Proje_E-Okul\bin\Debug\Proje_E-Okul.pdb
+E:\Visual Studio Programları\Proje_E-Okul\Proje_E-Okul\obj\Debug\Proje_E-Okul.csproj.AssemblyReference.cache
+E:\Visual Studio Programları\Proje_E-Okul\Proje_E-Okul\obj\Debug\Proje_E-Okul.csproj.SuggestedBindingRedirects.cache
+E:\Visual Studio Programları\Proje_E-Okul\Proje_E-Okul\obj\Debug\Proje_E_Okul.Form1.resources
+E:\Visual Studio Programları\Proje_E-Okul\Proje_E-Okul\obj\Debug\Proje_E_Okul.Properties.Resources.resources
+E:\Visual Studio Programları\Proje_E-Okul\Proje_E-Okul\obj\Debug\Proje_E-Okul.csproj.GenerateResource.cache
+E:\Visual Studio Programları\Proje_E-Okul\Proje_E-Okul\obj\Debug\Proje_E-Okul.csproj.CoreCompileInputs.cache
+E:\Visual Studio Programları\Proje_E-Okul\Proje_E-Okul\obj\Debug\Proje_E-Okul.exe
+E:\Visual Studio Programları\Proje_E-Okul\Proje_E-Okul\obj\Debug\Proje_E-Okul.pdb
+E:\Visual Studio Programları\Proje_E-Okul\Proje_E-Okul\obj\Debug\Proje_E_Okul.Frm_OgrenciNotlar.resources
+E:\Visual Studio Programları\Proje_E-Okul\Proje_E-Okul\obj\Debug\Proje_E_Okul.FrmOgretmen.resources
+E:\Visual Studio Programları\Proje_E-Okul\Proje_E-Okul\obj\Debug\Proje_E_Okul.FrmKulup.resources
+E:\Visual Studio Programları\Proje_E-Okul\Proje_E-Okul\obj\Debug\Proje_E_Okul.FrmDersler.resources
+E:\Visual Studio Programları\Proje_E-Okul\Proje_E-Okul\obj\Debug\Proje_E_Okul.FrmOgrenci.resources
+E:\Visual Studio Programları\Proje_E-Okul\Proje_E-Okul\obj\Debug\Proje_E_Okul.FrmSinavNotlar.resources
